@@ -75,7 +75,7 @@ ul{
     background-color: rgb(221, 227, 230);
 }
 .first{
-    background-image: url("/images/odinfront.svg");
+    background-image: url("../images/odinfront.svg");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
